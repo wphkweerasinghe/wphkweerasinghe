@@ -11,5 +11,5 @@
 - 🤔 I’m looking for help with audio plugin development
 - 💬 Ask me about anything related to music ;)
 - 📫 How to reach me: thissamarakoon@gmail.com
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I like Flying Saucers 🛸
+<!-- - 😄 Pronouns: ... -->
