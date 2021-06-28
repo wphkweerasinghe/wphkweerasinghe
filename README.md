@@ -13,7 +13,7 @@
 - 📫 How to reach me: thissamarakoon@gmail.com
 - ⚡ Fun fact: I like cars & flying saucers 🛸
 <!-- - 😄 Pronouns: ... -->
-![Profile views](https://gpvc.arturio.dev/[this8])
+![Profile views](https://gpvc.arturio.dev/this8)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this8&hide=css&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=this8&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
