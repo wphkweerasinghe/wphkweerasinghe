@@ -15,3 +15,4 @@
 <!-- - 😄 Pronouns: ... -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this8&hide=css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=this8&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=this8)](https://github.com/anuraghazra/github-readme-stats)
