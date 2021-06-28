@@ -13,4 +13,4 @@
 - 📫 How to reach me: thissamarakoon@gmail.com
 - ⚡ Fun fact: I like cars & flying saucers 🛸
 <!-- - 😄 Pronouns: ... -->
-[![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=this8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=this8&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
