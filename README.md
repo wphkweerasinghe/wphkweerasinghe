@@ -13,6 +13,6 @@
 - 📫 How to reach me: thissamarakoon@gmail.com
 - ⚡ Fun fact: I like cars & flying saucers 🛸
 <!-- - 😄 Pronouns: ... -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this8&hide=css,blade&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=this8&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<figure><embed src="https://wakatime.com/share/@1556bdf1-0413-42dd-8133-defa0b9b7671/5ede880a-249f-45d9-8cba-4d6ca02ba872.svg"></embed></figure>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this8&hide=css,blade&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://wakatime.com/share/@1556bdf1-0413-42dd-8133-defa0b9b7671/5ede880a-249f-45d9-8cba-4d6ca02ba872.svg">
