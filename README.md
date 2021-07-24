@@ -15,4 +15,4 @@
 <!-- - 😄 Pronouns: ... -->
 [![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=this8&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this8&hide=css,blade&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://wakatime.com/share/@1556bdf1-0413-42dd-8133-defa0b9b7671/7b080987-17b1-4f93-abaa-ec48d0db3609.svg" width="1000px">
+<img src="https://wakatime.com/share/@1556bdf1-0413-42dd-8133-defa0b9b7671/7b080987-17b1-4f93-abaa-ec48d0db3609.svg" width="680px">
