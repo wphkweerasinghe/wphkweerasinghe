@@ -6,12 +6,12 @@
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on music software applications (and productions too!)
-- 🤔 I’m looking for help with audio plugin development
-- 💬 Ask me about anything related to computer science and music ;)
-- 📫 How to reach me: thissamarakoon@gmail.com
-- ⚡ Fun fact: I like cars & flying saucers 🛸
+- 🌱 I’m currently learning ER system developing
+- 👯 I’m looking to collaborate on ER system (and productions too!)
+- 🤔 I’m looking for help with ES system development
+- 💬 Ask me about anything related to Business Process Management ;)
+- 📫 How to reach me: hkalhara777@gmail.com
+- ⚡ Fun fact: I like cars & watching movies 🛸
 <!-- - 😄 Pronouns: ... -->
 <!-- <img src="https://wakatime.com/share/@1556bdf1-0413-42dd-8133-defa0b9b7671/7b080987-17b1-4f93-abaa-ec48d0db3609.svg" width="720px"> -->
 
