@@ -16,8 +16,8 @@
 <!-- <img src="https://wakatime.com/share/@1556bdf1-0413-42dd-8133-defa0b9b7671/7b080987-17b1-4f93-abaa-ec48d0db3609.svg" width="720px"> -->
 [![@heshan98's Holopin board](https://holopin.me/heshan98)](https://holopin.io/@heshan98)
 
-[![Thisura's GitHub stats](https://github-readme-stats.vercel.app/api?username=this8&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=this8&hide=css,blade&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Heshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wphkweerasinghe&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wphkweerasinghe&hide=css,blade&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -32,4 +32,7 @@
   <a href="https://flutter.dev" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://www.figma.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://github.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+  
+  <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/wphkweerasinghe" data-size="large" aria-label="Follow @wphkweerasinghe on GitHub">Follow @wphkweerasinghe</a>
 </p>
